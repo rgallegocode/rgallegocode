@@ -16,12 +16,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rgallegocode&theme=shades-of-purple" alt="GitHub Streak" />
-</p>
-
-###
-
 ###
 
 <picture>

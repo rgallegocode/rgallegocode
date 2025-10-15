@@ -16,9 +16,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rgallegocode&theme=tokyonight" height="150" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rgallegocode&theme=shades-of-purple" alt="GitHub Streak" />
+</p>
 
 ###
 

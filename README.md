@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rgallegocode&theme=shades-of-purple" height="150" alt="streak graph"  />
-</div>
-
 <h1 align="left">Joseando con las dos manos ambidiestro</h1>
 
 ###
@@ -21,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rgallegocode&theme=shades-of-purple" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=rgallegocode&theme=tokyonight" height="150" alt="streak graph" />
 </div>
 
 ###

@@ -21,9 +21,7 @@
 ###
 
 <div align="center">
-  <a href="rgb_xv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=9E20B3&logoColor=511D59&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=rgallegocode&theme=shades-of-purple" height="150" alt="streak graph" />
 </div>
 
 ###

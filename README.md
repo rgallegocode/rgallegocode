@@ -24,7 +24,15 @@ I am a Software Engineering student at the University of Malaga, focused on back
 - Based in Malaga, Spain, and open to remote opportunities.
 - Spanish native and English C1.
 
-## A little bit of me
+## This is me :)
+
+Hi, I'm **Roberto**, a Software Engineering student and Backend & Blockchain Developer from Malaga, Spain. I build backend services and distributed systems, and I enjoy turning complex technical workflows into reliable software.
+
+- **Backend & Blockchain Developer at [IOBuilders](https://www.iobuilders.com)**: working on tokenized-bond infrastructure with Go, Daml and Canton.
+- Focused on **Java/Spring Boot**, **Go**, **Python**, APIs, Docker and CI/CD.
+- Interested in **blockchain, cloud infrastructure, distributed systems and secure software**.
+- Currently completing a **BSc in Software Engineering at the University of Malaga**.
+- Open to conversations about backend engineering, DevOps and blockchain infrastructure.
 
 <div align="center">
 
@@ -50,7 +58,6 @@ I am a Software Engineering student at the University of Malaga, focused on back
 ==--------====*-:-===+**+++++++==++==++==-===+++++++++++++
 +++=--::-+++==+-:--==++++=--:--::::-=++==-----==========++
 ++++-::::=+++++-.:--==+++========---+++=-=+=====------===
-
 =++++=:---=++++++:::-==++++++++======+==--+++++++++++=======
 =====--:::-+=+++++:--:-=++++++***+++====--++++++++++++++++
 =====::::-====++=:==-----==+++++++===---====++++++++++++++++
@@ -63,7 +70,7 @@ I am a Software Engineering student at the University of Malaga, focused on back
 =-=+#%@@@@@@@@@#++==++++++++++++====+====%@@@@@@@@@@@@@@@@@@
 -+#%@@@@@@@@@@@@@#*+++++++++++++=++++==+#@@@@@@@@@@@@@@@@@@@
 *%@@@@@@@@@@@@@@@@@%#********+++++**++#@@@@@@@@@@@@@@@@@@@@@@
-
+```
 
 </div>
 

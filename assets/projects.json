@@ -1,0 +1,17 @@
+{
+  "_comment": "Featured repositories, in README order. Descriptions override GitHub descriptions.",
+  "projects": [
+    {
+      "repo": "cava-bot",
+      "description": "Automated Telegram financial briefing using Python, market data, news APIs and Gemini, scheduled with GitHub Actions."
+    },
+    {
+      "repo": "Bancosol",
+      "description": "University Spring MVC application for food-collection campaigns with role-based access control and JWT."
+    },
+    {
+      "repo": "roberto-gallego-portfolio",
+      "description": "Personal portfolio for presenting backend, blockchain and software engineering projects."
+    }
+  ]
+}

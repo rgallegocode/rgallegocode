@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Backend APIs", "value": 78 },
+    { "label": "Java / Spring", "value": 76 },
+    { "label": "Go", "value": 68 },
+    { "label": "DevOps / CI/CD", "value": 70 },
+    { "label": "Blockchain", "value": 65 },
+    { "label": "Distributed Systems", "value": 64 },
+    { "label": "Testing", "value": 70 }
+  ]
+}

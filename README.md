@@ -74,36 +74,42 @@ Hi, I'm **Roberto**, a Software Engineering student and Backend & Blockchain Dev
 <tr>
 <td width="50%" align="center" valign="middle">
 
-**Backend & APIs**
-
-Java 17 · Spring Boot · Spring MVC · JPA · Spring Security · JWT · Go · REST · SQL
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-**Infrastructure**
-
-Docker · Docker Compose · Kubernetes · Linux · Nginx · GitHub Actions · CI/CD
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-**Blockchain & distributed systems**
-
-Solidity · Daml · Canton · Smart Contracts · gRPC
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
+</picture>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-**Testing & tooling**
-
-JUnit · Mockito · Playwright · Maven · Git · Terraform fundamentals
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="backend and infrastructure radar chart">
+</picture>
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+## Numbers matter? ohhh yes.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
+
+<br>
+
+<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
 
 </div>
 

@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="assets/profile-avatar.jpg" width="100%" alt="Roberto Gallego">
+<!-- BANNER - generated from Roberto's profile photo and technical profile. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+  <img src="assets/banner-dark.v9.svg" width="100%" alt="Roberto's live system profile">
+</picture>
 
 <br>
 

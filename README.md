@@ -17,7 +17,7 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://www.linkedin.com/in/roberto-gallego-barbaran-5508b329b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/roberto-gallego-barbar%C3%A1n-5508b329b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="mailto:robertogallego004@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"></a>&nbsp;&nbsp;
 <a href="https://rgallegocode.github.io/roberto-gallego-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio"></a>
 

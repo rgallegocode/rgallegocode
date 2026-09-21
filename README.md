@@ -107,10 +107,6 @@ Hi, I'm **Roberto**, a Software Engineering student and Backend & Blockchain Dev
   <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
 </picture>
 
-<br>
-
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
-
 </div>
 
 ---

@@ -3,7 +3,7 @@
   "projects": [
     {
       "repo": "cava-bot",
-      "description": "Automated Telegram financial briefing using Python, market data, news APIs and Gemini, scheduled with GitHub Actions."
+      "description": "Autonomous financial-analyst agent (smolagents ReAct) with custom market-data tools, swappable LLM, pytest/ruff CI and a live Hugging Face demo."
     },
     {
       "repo": "Bancosol",
@@ -11,7 +11,7 @@
     },
     {
       "repo": "roberto-gallego-portfolio",
-      "description": "Personal portfolio for presenting backend, blockchain and software engineering projects."
+      "description": "Personal portfolio presenting applied AI, backend and distributed-ledger projects."
     }
   ]
 }

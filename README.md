@@ -11,7 +11,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/rgallegocode">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Roberto+Gallego+-+Backend+%26+Blockchain+Developer;Java+/+Go+/+Python+/+Distributed+Systems;Building+reliable+software+since+2022" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Roberto+Gallego+-+Applied+AI+%26+Backend+Engineer;LLM+agents+/+Go+/+Java+/+Python;AI+%26+Automation+Intern+%40+DEKRA" alt="typing banner">
 </a>
 
 <br>
@@ -31,21 +31,23 @@
 
 ## This is me :)
 
-Hi, I'm **Roberto**, a Software Engineering student and backend and blockchain developer from Malaga, Spain. I build backend services and distributed systems, and I enjoy turning complex technical workflows into reliable software.
+Hi, I'm **Roberto**, a junior software engineer from Málaga, Spain, focused on **applied AI and backend**. I build LLM agents in Python and backend services in Go and Java, and I like turning messy workflows into software that is easy to test and operate.
 
-- 🎓 **Software Engineering student at [University of Malaga](https://www.uma.es/)**, currently completing my BSc.
-- 🔗 **Backend and blockchain project contributor** in a university-industry collaboration with IOBuilders, working with Go, Daml and Canton.
-- 🧩 Focused on **Java/Spring Boot**, **Go**, **Python**, APIs, Docker and CI/CD.
-- 🛠️ Interested in **blockchain, cloud infrastructure, distributed systems and secure software**.
-- 🌱 My mission is to keep learning, build useful systems and ship software that is easy to test and operate.
-- 💬 Talk to me about **backend engineering, DevOps and blockchain infrastructure**.
+- 🤖 **AI & Automation Engineer Intern at DEKRA**: building AI agents with **LangChain, LangGraph and MCP** to automate the analysis of laboratory results.
+- 🔗 **Backend developer (Canton/DLT)** in a university-industry collaboration with **IOBuilders**: Go integration with the Canton Ledger API over gRPC, Delivery-versus-Payment settlement and OpenTelemetry observability for a tokenised bond platform.
+- 🏆 **4th place in the Betsson challenge at Hackathon UMA 2026** (300+ students): wrote a TypeScript/Playwright tool that validates casino games with computer vision and OCR.
+- 🧪 Side project: [**Cava Agent**](https://github.com/rgallegocode/cava-bot), a smolagents ReAct financial-analyst agent with CI on GitHub Actions and a live demo on Hugging Face.
+- 🎓 **BSc in Software Engineering at the [University of Málaga](https://www.uma.es/)** (2023–2027) and a 490h University Extension in Blockchain Technologies.
+- 🧩 Stack: **Python, Go, Java/Spring Boot, TypeScript**, gRPC, REST, Docker, GitHub Actions.
+- 🌍 Spanish (native) · English (C1, Cambridge) · Open to remote (CET).
+- 💬 Talk to me about **LLM agents, backend engineering and distributed ledgers**.
 <br>
 
 <div align="center">
 
-## my perfect stack`
+## my perfect stack
 
-<img src="https://skillicons.dev/icons?i=go,java,spring,python,js,cpp,docker,kubernetes,linux,nginx,git,githubactions,mysql,postman&perline=7" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,go,java,spring,ts,js,docker,linux,nginx,git,githubactions,mysql,playwright&perline=7" alt="tech stack">
 
 </div>
 
@@ -69,11 +71,11 @@ Hi, I'm **Roberto**, a Software Engineering student and backend and blockchain d
 </td>
 <td width="50%" align="center" valign="middle">
 
-<!-- Hand-authored backend and infrastructure stack radar - edit assets/langmix.json -->
+<!-- Hand-authored stack radar - edit assets/langmix.json -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="backend and infrastructure radar chart">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="stack radar chart">
 </picture>
 
 </td>

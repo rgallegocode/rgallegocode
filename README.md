@@ -40,7 +40,6 @@ Hi, I'm **Roberto**, a junior software engineer from Málaga, Spain, focused on 
 - 🎓 **BSc in Software Engineering at the [University of Málaga](https://www.uma.es/)** (2023–2027) and a 490h University Extension in Blockchain Technologies.
 - 🧩 Stack: **Python, Go, Java/Spring Boot, TypeScript**, gRPC, REST, Docker, GitHub Actions.
 - 🌍 Spanish (native) · English (C1, Cambridge) · Open to remote (CET).
-- 💬 Talk to me about **LLM agents, backend engineering and distributed ledgers**.
 <br>
 
 <div align="center">
